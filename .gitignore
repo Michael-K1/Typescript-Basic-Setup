@@ -1,2 +1,7 @@
+build/
+layers/
 node_modules/
+
+.serverless/
 .eslintcache
+*.tsbuildinfo
